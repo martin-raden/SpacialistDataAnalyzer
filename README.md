@@ -38,7 +38,7 @@ The screenshot below shows the Spacialist Data Analyzer main window, offering a 
 ## License
 
 Spacialist Data Analyzer is licensed using the [MIT License](LICENSE.md).\
-(c) 2018 eScience-Center, Univeristy of Tübingen
+(c) 2018 Digital-Humanities-Center, University of Tübingen
 
 ## Acknowledgments
 
